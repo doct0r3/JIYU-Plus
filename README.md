@@ -5,6 +5,8 @@
 
 **ONLY TESTED ON 极域电子教室 v2016 豪华版!!!**
 
+**FOR 32BIT Mythware ONLY**
+
 <!-- --------------- -->
 
 ## Intro
